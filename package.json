@@ -1,0 +1,19 @@
+{
+  "name": "natepill_first_npm_module",
+  "version": "1.0.0",
+  "description": "hello world npm module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natepill/first_npm_module.git"
+  },
+  "author": "natepill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natepill/first_npm_module/issues"
+  },
+  "homepage": "https://github.com/natepill/first_npm_module#readme"
+}
